@@ -1,0 +1,12 @@
+{
+  "name": "blog",
+  "compatibility_date": "2025-04-01",
+  "compatibility_flags": ["nodejs_compat"],
+  "assets": {
+    "directory": "./dist",
+  },
+  "observability": {
+    "enabled": true
+  },
+  "upload_source_maps": true
+}
